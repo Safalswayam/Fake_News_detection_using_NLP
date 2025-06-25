@@ -1,4 +1,4 @@
-#📰 Fake News Detection using NLP
+📰 Fake News Detection using NLP
 
 This project applies Natural Language Processing (NLP) and Machine Learning to detect whether a given news article is real or fake. It uses TF-IDF for text vectorization and a PassiveAggressiveClassifier for classification.
 
